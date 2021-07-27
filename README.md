@@ -2,8 +2,6 @@
 
 # Hi there 👋
 
-My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava and currently working at IBM. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
-
 My name is Nazar Hussain and I am a code craftsman, as I believe developing software is a work of art. I am from [Pakistan](https://unsplash.com/s/photos/pakistan), living in [Berlin](https://unsplash.com/s/photos/berlin).
 
 [![Github](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](http://basicdrift.com)
